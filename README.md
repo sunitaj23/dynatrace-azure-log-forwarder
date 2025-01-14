@@ -1,0 +1,1 @@
+# dynatrace-azure-log-forwarder
